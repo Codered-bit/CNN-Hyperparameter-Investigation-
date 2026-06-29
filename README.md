@@ -178,16 +178,4 @@ python app.py
 
 ⸻
 
-📌 Future Improvements
 
-* Add dropout and batch normalization
-* Use learning rate scheduling
-* Implement data augmentation
-* Extend to ResNet-style architectures
-* Hyperparameter tuning with Optuna
-
-⸻
-
-👤 Author
-
-Dare Shonubi
