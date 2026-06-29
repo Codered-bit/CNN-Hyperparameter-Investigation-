@@ -163,6 +163,39 @@ CNN_Project/
 ├── data/                   # CIFAR-10 dataset
 
 ---
+Streamlit Extension (Future Work)
+
+This project can be extended into a Streamlit dashboard:
+
+* Upload image → predict class
+* Compare model performance interactively
+* View training graphs dynamically
+* Switch between trained models
+
+⸻
+
+🔬 Limitations
+
+* Limited hyperparameter search space
+* No data augmentation used
+* Fixed CNN architecture family
+* Training time constraints
+
+⸻
+
+📌 Future Improvements
+
+* Add dropout and batch normalization
+* Use learning rate scheduling
+* Implement data augmentation
+* Extend to ResNet-style architectures
+* Hyperparameter tuning with Optuna
+
+⸻
+
+👤 Author
+
+Dare Shonubi
 
 ## How to Run
 
@@ -177,5 +210,6 @@ python app.py
 * Training time constraints
 
 ⸻
+
 
 
