@@ -174,7 +174,7 @@ This project can be extended into a Streamlit dashboard:
 
 ⸻
 
-🔬 Limitations
+Limitations
 
 * Limited hyperparameter search space
 * No data augmentation used
@@ -183,7 +183,7 @@ This project can be extended into a Streamlit dashboard:
 
 ⸻
 
-📌 Future Improvements
+Future Improvements
 
 * Add dropout and batch normalization
 * Use learning rate scheduling
@@ -193,7 +193,7 @@ This project can be extended into a Streamlit dashboard:
 
 ⸻
 
-👤 Author
+Author
 
 Dare Shonubi
 
