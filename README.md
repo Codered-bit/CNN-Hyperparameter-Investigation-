@@ -172,21 +172,7 @@ pip install torch torchvision matplotlib numpy pandas scikit-learn
 
 python app.py
 
-Streamlit Extension (Future Work)
 
-This project can be extended into a Streamlit dashboard:
-
-* Upload image → predict class
-* Compare model performance interactively
-* View training graphs dynamically
-* Switch between trained models
-
-⸻
-
-🔬 Limitations
-
-* Limited hyperparameter search space
-* No data augmentation used
 * Fixed CNN architecture family
 * Training time constraints
 
